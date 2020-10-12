@@ -1,0 +1,13 @@
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.csprojAssemblyReference.cache
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.AssemblyInfoInputs.cache
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.AssemblyInfo.cs
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.csproj.CoreCompileInputs.cache
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.exe
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.deps.json
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.runtimeconfig.json
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.runtimeconfig.dev.json
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.dll
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Snake.cs.pdb
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.dll
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.pdb
+C:\Users\gurke\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Snake.cs.genruntimeconfig.cache
